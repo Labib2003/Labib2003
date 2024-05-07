@@ -1,36 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Labib, a computer science student from Bangladesh, passionate about solving real-world problems through software. Currently interning at [Repsoft Consultancy Services](https://repsoft.in/). I specialize in building web applications and REST APIs.
+### I'm Labib, a computer science student from Bangladesh, passionate about solving real-world problems through software. Currently interning at [Repsoft Consultancy Services](https://repsoft.in/). I specialize in building web applications and REST APIs.
 
-I am proficient in `JavaScript/TypeScript` and its frameworks like `React` and `Express`.
+### I am proficient in `JavaScript/TypeScript` and its frameworks like `React` and `Express`.
 
-I have experience in databases like `MongoDB` and `PostgreSQL`.
+### I have experience in databases like `MongoDB` and `PostgreSQL`.
 
-I am also familiar with:
+### I am also familiar with:
 
-- `Git`
-- `Linux`
-- Common AWS services like `EC2` and `S3`.
+### - `Git`
+### - `Linux`
+### - Common AWS services like `EC2` and `S3`.
 
-I also know a bit of `Python`. I have developed basic web applications using `Flask`.
+### I also know a bit of `Python`. I have developed basic web applications using `Flask`.
 
-### 🔭 I’m interested on
+## 🔭 I’m interested on
 
-Apart from web development, I'm deeply interested in computer science fundamentals. I am currently learning about algorithms and data structures, and interested in cybersecurity and AI/ML, especially how chess engines work (would like to build one one day).
+### Apart from web development, I'm deeply interested in computer science fundamentals. I am currently learning about algorithms and data structures, and interested in cybersecurity and AI/ML, especially how chess engines work (would like to build one one day).
 
-Additionally, I'm a developer productivity enthusiast, experimenting with tools like NeoVim, FancyZones (Windows), Tmux, and always open to suggestions for improvement.
+### Additionally, I'm a developer productivity enthusiast, experimenting with tools like NeoVim, FancyZones (Windows), Tmux, and always open to suggestions for improvement.
 
-### 🌱 I’m currently learning
+## 🌱 I’m currently learning
 
-Currently, I'm focused on getting comfortable with `NextJS 14` and `React Server Components`.
+### Currently, I'm focused on getting comfortable with `NextJS 14` and `React Server Components`.
 
-I'm also exploring the `Bun` runtime and its ecosystem, especally the `Hono` framework.
+### I'm also exploring the `Bun` runtime and its ecosystem, especally the `Hono` framework.
 
-### 🎈 Fun Projects
+## 🎈 Fun Projects
 
-Im learning the `Godot` game engine and plan to build a simple game with it.
+### Im learning the `Godot` game engine and plan to build a simple game with it.
 
-### 🖥️My current dev toolbox:
+## 🖥️My current dev toolbox:
 
 #### System:
 
@@ -46,6 +46,6 @@ Im learning the `Godot` game engine and plan to build a simple game with it.
 | C++      | GodoScript   | TypeScript |
 | Lua      |              |            |
 
-### 👯 I’m looking to collaborate on
+## 👯 I’m looking to collaborate on
 
-Any project that involves building web applications with React or REST APIs. I am also interested in contributing to open source projects.
+### Any project that involves building web applications with React or REST APIs. I am also interested in contributing to open source projects.
