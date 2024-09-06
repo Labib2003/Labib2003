@@ -47,3 +47,7 @@ Im learning the `Godot` game engine and plan to build a simple game with it.
 ## 👯 I’m looking to collaborate on
 
 Any project that involves building web applications with React or REST APIs. I am also interested in contributing to open source projects.
+
+## External Badges
+[![autocomplete](https://codeium.com/badges/user/labib2003/autocomplete)](https://codeium.com/profile/labib2003)
+[![streak](https://codeium.com/badges/v2/user/labib2003/streak)](https://codeium.com/profile/labib2003)
