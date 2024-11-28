@@ -2,7 +2,7 @@
 
 I'm Labib, a computer science student from Bangladesh, passionate about solving real-world problems through software. Currently interning at [Repsoft Consultancy Services](https://repsoft.in/). I specialize in building web applications and REST APIs.
 
-I am proficient in `JavaScript/TypeScript` and its frameworks like `React` and `Express`.
+I am proficient in `JavaScript/TypeScript` and its frameworks like `React/Next.js` and `Express`.
 
 I have experience in databases like `MongoDB` and `PostgreSQL`.
 
@@ -20,14 +20,6 @@ Apart from web development, I'm deeply interested in computer science fundamenta
 
 Additionally, I'm a developer productivity enthusiast, experimenting with tools like NeoVim, FancyZones (Windows), Tmux, and always open to suggestions for improvement.
 
-## 🌱 I’m currently learning
-
-Currently, I'm focused on getting comfortable with `NextJS 14` and `React Server Components`.
-
-## 🎈 Fun Projects
-
-Im learning the `Godot` game engine and plan to build a simple game with it.
-
 ## 🖥️My current dev toolbox:
 
 #### System:
@@ -41,7 +33,7 @@ Im learning the `Godot` game engine and plan to build a simple game with it.
 | Beginner | Intermediate | Proficient |
 | -------- | ------------ | ---------- |
 | C        | Python       | JavaScript |
-| C++      |    | TypeScript |
+| C++      |              | TypeScript |
 | Lua      |              |            |
 
 ## 👯 I’m looking to collaborate on
