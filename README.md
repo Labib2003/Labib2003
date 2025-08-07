@@ -1,45 +1,62 @@
-# Hi there 👋
+# 👋 Hi there, I'm Labib
 
-I'm Labib, a computer science student from Bangladesh, passionate about solving real-world problems through software. Currently interning at [Repsoft Consultancy Services](https://repsoft.in/). I specialize in building web applications and REST APIs.
+I'm a final-year Computer Science student from Bangladesh, currently working at [Repsoft Global](https://www.repsoftglobal.com/). I specialize in backend infrastructure and full-stack development, with a focus on solving real-world problems through scalable, well-architected software.
+I regularly upload small learning demos as I explore new technologies — feel free to check out my public repositories to follow along!
 
-I am proficient in `JavaScript/TypeScript` and its frameworks like `React/Next.js` and `Express`.
+## 💻 What I Do
 
-I have experience in databases like `MongoDB` and `PostgreSQL`.
+- Build secure and scalable **web applications** and **REST/tRPC APIs**
+- Design and deploy backend services using **Node.js**, **TypeScript**, **PostgreSQL**, and **MongoDB**
+- Architect containerized apps with **Docker**, and deploy to the cloud (primarily AWS)
+- Experiment with **AI integrations** (LangChain, vector DBs, OpenAI SDKs)
 
-I am also familiar with:
+## 🛠️ Tech Stack
 
-- `Git`
-- `Linux`
-- Common AWS services like `EC2` and `S3`.
+### Core
 
-I also know a bit of `Python`. I have developed basic web applications using `Flask`.
+- **Languages**: TypeScript, JavaScript, Python, C, C++, Lua (basic)
+- **Frameworks**: React, Next.js, Express, Hono, NestJS (learning)
+- **Databases**: PostgreSQL, MongoDB
+- **ORMs**: Prisma, Drizzle
+- **API**: REST, tRPC, OpenAPI (in progress)
 
-## 🔭 I’m interested on
+### DevOps & Infrastructure
 
-Apart from web development, I'm deeply interested in computer science fundamentals. I am currently learning about algorithms and data structures, and interested in cybersecurity and AI/ML, especially how chess engines work (would like to build one one day).
+- **Containerization**: Docker
+- **Cloud**: AWS (EC2, S3), Vercel
+- **CI/CD**: GitHub Actions
+- **Infra-as-Code**: Terraform, Pulumi (learning)
+- **Observability**: OpenTelemetry (learning)
 
-Additionally, I'm a developer productivity enthusiast, experimenting with tools like NeoVim, FancyZones (Windows), Tmux, and always open to suggestions for improvement.
+## 🎯 Currently Exploring
 
-## 🖥️My current dev toolbox:
+- Distributed systems & backend architecture (Kubernetes, streaming, caching)
+- AI/ML integrations into full-stack apps
+- Using `LangGraph` agents and vector DBs for smarter applications
 
-#### System:
+
+## 🧠 Interests Beyond Code
+
+- **Cybersecurity** – always curious about protocol exploits and system defense
+- **Developer workflows** – from NeoVim to FancyZones, I’m all about speed + minimalism
+
+
+## 🤝 Open to Collaborate On
+
+- Full-stack projects using **Next.js**, **React**, or **Hono/Nest.js**
+- Infrastructure-focused applications (CI/CD, monitoring, containerized deployments)
+- Open source contributions that match my current stack or learning goals
+
+
+## 🖥️ My Dev Toolbox
 
 | OS            | Editor | Terminal         | Browser | Version Control |
 | ------------- | ------ | ---------------- | ------- | --------------- |
 | WSL2 (Ubuntu) | NeoVim | Windows Terminal | Brave   | Git             |
 
-#### Languages:
-
 | Beginner | Intermediate | Proficient |
 | -------- | ------------ | ---------- |
-| C        | Python       | JavaScript |
-| C++      |              | TypeScript |
-| Lua      |              |            |
+| C, C++, Lua   | Python  | JavaScript, TypeScript |
 
-## 👯 I’m looking to collaborate on
 
-Any project that involves building web applications with React or REST APIs. I am also interested in contributing to open source projects.
-
-## External Badges
-[![autocomplete](https://codeium.com/badges/user/labib2003/autocomplete)](https://codeium.com/profile/labib2003)
-[![streak](https://codeium.com/badges/v2/user/labib2003/streak)](https://codeium.com/profile/labib2003)
+> 📬 Feel free to reach out if you're working on infrastructure-heavy apps or developer tooling—I’d love to help or learn from you!
