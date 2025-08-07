@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science student from Bangladesh, currently working at [Repsoft Global](https://www.repsoftglobal.com/). I specialize in backend infrastructure and full-stack development, with a focus on solving real-world problems through scalable, well-architected software.
 
-I regularly upload small learning demos as I explore new technologies — feel free to check out my public repositories to follow along!
+I like to share small learning demos as I explore new tech—trying out best practices even in the tiniest projects. I think you might enjoy some of these micro builds, so feel free to check out my public repos!
 
 ## 💻 What I Do
 
