@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Labib
 
-I'm a final-year Computer Science student from Bangladesh, currently working at [Repsoft Global](https://www.repsoftglobal.com/). I specialize in backend infrastructure and full-stack development, with a focus on solving real-world problems through scalable, well-architected software.
+I'm a final-year Computer Science student from Bangladesh, currently working at [Gain Solutions](https://gainhq.com/). I specialize in backend infrastructure and full-stack development, with a focus on solving real-world problems through scalable, well-architected software.
 
 I like to share small learning demos as I explore new tech—trying out best practices even in the tiniest projects. I think you might enjoy some of these micro builds, so feel free to check out my public repos!
 
